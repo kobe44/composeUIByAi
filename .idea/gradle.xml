@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$USER_HOME$/Downloads/gradle-9.3.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/base-net" />
+            <option value="$PROJECT_DIR$/base-router" />
+            <option value="$PROJECT_DIR$/base-storage" />
+            <option value="$PROJECT_DIR$/base-ui" />
+            <option value="$PROJECT_DIR$/business-finance" />
+            <option value="$PROJECT_DIR$/business-mall" />
+            <option value="$PROJECT_DIR$/business-market" />
+            <option value="$PROJECT_DIR$/business-otc" />
+            <option value="$PROJECT_DIR$/business-trade" />
+            <option value="$PROJECT_DIR$/common-asset" />
+            <option value="$PROJECT_DIR$/common-login" />
+            <option value="$PROJECT_DIR$/common-notify" />
+            <option value="$PROJECT_DIR$/common-user" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

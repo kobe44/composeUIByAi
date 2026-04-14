@@ -1,0 +1,3 @@
+<resources>
+    <string name="base_ui_module_placeholder_hint">组件占位页：在此接入业务界面与 ViewModel。</string>
+</resources>

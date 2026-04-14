@@ -1,0 +1,20 @@
+# Ruff：Python 格式化 + 静态检查（仅作用于项目中的 .py 文件）
+# 文档：https://docs.astral.sh/ruff/
+
+line-length = 88
+target-version = "py311"
+
+[lint]
+select = [
+  "E",   # pycodestyle errors
+  "W",   # pycodestyle warnings
+  "F",   # Pyflakes
+  "I",   # isort（import 排序）
+  "UP",  # pyupgrade
+  "B",   # flake8-bugbear
+]
+ignore = []
+
+[format]
+quote-style = "double"
+indent-style = "space"

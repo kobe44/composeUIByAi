@@ -1,0 +1,2 @@
+com.example.exchange.common.notify
+string module_notify_title

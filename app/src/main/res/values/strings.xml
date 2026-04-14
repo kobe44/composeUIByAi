@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exchange</string>
+    <string name="shell_title">交易所 · 壳工程</string>
+    <string name="shell_subtitle">集成各业务组件，路由走 ARouter；全局事件见 Logcat「Shell」。</string>
+    <string name="shell_nav_login">通用 · 登录</string>
+    <string name="shell_nav_user">通用 · 用户中心</string>
+    <string name="shell_nav_asset">通用 · 资产</string>
+    <string name="shell_nav_notify">通用 · 通知</string>
+    <string name="shell_nav_market">业务 · 行情</string>
+    <string name="shell_nav_trade">业务 · 交易</string>
+    <string name="shell_nav_otc">业务 · OTC</string>
+    <string name="shell_nav_finance">业务 · 金融</string>
+</resources>

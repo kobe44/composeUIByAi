@@ -1,0 +1,2 @@
+com.example.exchange.business.trade
+string module_trade_title

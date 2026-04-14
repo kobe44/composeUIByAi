@@ -1,0 +1,8 @@
+com.example.exchange.base.router.base-router-pngs-0 /Users/thomas/AndroidStudioProjects/MyApplication/base-router/build/generated/res/pngs/debug
+com.example.exchange.base.router.base-router-updated_navigation_xml-1 /Users/thomas/AndroidStudioProjects/MyApplication/base-router/build/generated/updated_navigation_xml/debug
+com.example.exchange.base.router.base-router-mergeDebugResources-2 /Users/thomas/AndroidStudioProjects/MyApplication/base-router/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.exchange.base.router.base-router-mergeDebugResources-3 /Users/thomas/AndroidStudioProjects/MyApplication/base-router/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.exchange.base.router.base-router-debug-4 /Users/thomas/AndroidStudioProjects/MyApplication/base-router/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.exchange.base.router.base-router-debug-5 /Users/thomas/AndroidStudioProjects/MyApplication/base-router/build/intermediates/packaged_res/debug/packageDebugResources
+com.example.exchange.base.router.base-router-debug-6 /Users/thomas/AndroidStudioProjects/MyApplication/base-router/src/debug/res
+com.example.exchange.base.router.base-router-main-7 /Users/thomas/AndroidStudioProjects/MyApplication/base-router/src/main/res

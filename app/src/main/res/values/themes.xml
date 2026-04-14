@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 壳工程主题独立声明，避免部分环境下跨模块 parent 样式解析失败 -->
+    <style name="Theme.MyApplication" parent="Theme.Material3.Light.NoActionBar" />
+</resources>

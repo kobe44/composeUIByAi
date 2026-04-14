@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+string mall_add
+string mall_cart
+string mall_cart_local_hint
+string mall_demo_account
+string mall_empty_cart
+string mall_empty_products
+string mall_loading
+string mall_login
+string mall_login_api_hint
+string mall_login_title
+string mall_logout
+string mall_password
+string mall_products
+string mall_total
+string mall_username
+string module_mall_title

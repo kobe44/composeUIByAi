@@ -1,0 +1,8 @@
+com.example.exchange.business.trade.business-trade-pngs-0 /Users/thomas/AndroidStudioProjects/MyApplication/business-trade/build/generated/res/pngs/debug
+com.example.exchange.business.trade.business-trade-updated_navigation_xml-1 /Users/thomas/AndroidStudioProjects/MyApplication/business-trade/build/generated/updated_navigation_xml/debug
+com.example.exchange.business.trade.business-trade-mergeDebugResources-2 /Users/thomas/AndroidStudioProjects/MyApplication/business-trade/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.exchange.business.trade.business-trade-mergeDebugResources-3 /Users/thomas/AndroidStudioProjects/MyApplication/business-trade/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.exchange.business.trade.business-trade-debug-4 /Users/thomas/AndroidStudioProjects/MyApplication/business-trade/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.exchange.business.trade.business-trade-debug-5 /Users/thomas/AndroidStudioProjects/MyApplication/business-trade/build/intermediates/packaged_res/debug/packageDebugResources
+com.example.exchange.business.trade.business-trade-debug-6 /Users/thomas/AndroidStudioProjects/MyApplication/business-trade/src/debug/res
+com.example.exchange.business.trade.business-trade-main-7 /Users/thomas/AndroidStudioProjects/MyApplication/business-trade/src/main/res

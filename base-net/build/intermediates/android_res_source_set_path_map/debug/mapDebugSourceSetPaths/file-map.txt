@@ -1,0 +1,8 @@
+com.example.exchange.base.net.base-net-pngs-0 /Users/thomas/AndroidStudioProjects/MyApplication/base-net/build/generated/res/pngs/debug
+com.example.exchange.base.net.base-net-updated_navigation_xml-1 /Users/thomas/AndroidStudioProjects/MyApplication/base-net/build/generated/updated_navigation_xml/debug
+com.example.exchange.base.net.base-net-mergeDebugResources-2 /Users/thomas/AndroidStudioProjects/MyApplication/base-net/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.exchange.base.net.base-net-mergeDebugResources-3 /Users/thomas/AndroidStudioProjects/MyApplication/base-net/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.exchange.base.net.base-net-debug-4 /Users/thomas/AndroidStudioProjects/MyApplication/base-net/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.exchange.base.net.base-net-debug-5 /Users/thomas/AndroidStudioProjects/MyApplication/base-net/build/intermediates/packaged_res/debug/packageDebugResources
+com.example.exchange.base.net.base-net-debug-6 /Users/thomas/AndroidStudioProjects/MyApplication/base-net/src/debug/res
+com.example.exchange.base.net.base-net-main-7 /Users/thomas/AndroidStudioProjects/MyApplication/base-net/src/main/res
