@@ -38,6 +38,7 @@ import com.example.exchange.base.router.event.ModuleEvent
 import com.example.exchange.base.router.event.ModuleEventBus
 import com.example.exchange.base.storage.StorageHolder
 import com.example.exchange.base.ui.BaseActivity
+import com.example.exchange.base.ui.view.fastClick
 
 @Route(path = RoutePath.Login.PAGE)
 class LoginActivity : BaseActivity() {
@@ -49,14 +50,24 @@ class LoginActivity : BaseActivity() {
                 LoginScreen(
                     onLogin = { username, password ->
                         if (username.isBlank() || password.isBlank()) {
-                            Toast.makeText(this, R.string.login_error_empty, Toast.LENGTH_SHORT).show()
+                            Toast.makeText(this, R.string.login_error_empty, Toast.LENGTH_SHORT)
+                                .show()
                             return@LoginScreen
                         }
                         val token = "mock-token-${username.hashCode()}"
                         StorageHolder.kv.putString("auth_token", token)
                         StorageHolder.kv.putString("user_id", username)
-                        ModuleEventBus.tryEmit(ModuleEvent.UserLoginSuccess(userId = username, token = token))
-                        Toast.makeText(this, getString(R.string.login_success_toast, username), Toast.LENGTH_SHORT).show()
+                        ModuleEventBus.tryEmit(
+                            ModuleEvent.UserLoginSuccess(
+                                userId = username,
+                                token = token
+                            )
+                        )
+                        Toast.makeText(
+                            this,
+                            getString(R.string.login_success_toast, username),
+                            Toast.LENGTH_SHORT
+                        ).show()
                         finish()
                     },
                     onForgotPassword = {
@@ -136,7 +147,7 @@ private fun LoginScreen(
         }
         Spacer(Modifier.height(16.dp))
         Button(
-            onClick = { onLogin(username.trim(), password) },
+            onClick = fastClick { onLogin(username.trim(), password) },
             modifier = Modifier.fillMaxWidth(),
         ) {
             Text(stringResource(R.string.login_button))
