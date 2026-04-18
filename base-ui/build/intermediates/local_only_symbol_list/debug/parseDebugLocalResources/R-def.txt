@@ -1,4 +1,0 @@
-R_DEF: Internal format may change without notice
-local
-string base_ui_module_placeholder_hint
-style Theme.Exchange.Base

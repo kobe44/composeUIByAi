@@ -1,3 +1,0 @@
-com.example.exchange.base.ui
-string base_ui_module_placeholder_hint
-style Theme_Exchange_Base

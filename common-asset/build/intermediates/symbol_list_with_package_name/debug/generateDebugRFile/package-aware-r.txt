@@ -1,2 +1,0 @@
-com.example.exchange.common.asset
-string module_asset_title

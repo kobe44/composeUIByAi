@@ -1,8 +1,0 @@
-com.example.exchange.base.storage.base-storage-pngs-0 /Users/thomas/AndroidStudioProjects/MyApplication/base-storage/build/generated/res/pngs/debug
-com.example.exchange.base.storage.base-storage-updated_navigation_xml-1 /Users/thomas/AndroidStudioProjects/MyApplication/base-storage/build/generated/updated_navigation_xml/debug
-com.example.exchange.base.storage.base-storage-mergeDebugResources-2 /Users/thomas/AndroidStudioProjects/MyApplication/base-storage/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
-com.example.exchange.base.storage.base-storage-mergeDebugResources-3 /Users/thomas/AndroidStudioProjects/MyApplication/base-storage/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
-com.example.exchange.base.storage.base-storage-debug-4 /Users/thomas/AndroidStudioProjects/MyApplication/base-storage/build/intermediates/merged_res/debug/mergeDebugResources
-com.example.exchange.base.storage.base-storage-debug-5 /Users/thomas/AndroidStudioProjects/MyApplication/base-storage/build/intermediates/packaged_res/debug/packageDebugResources
-com.example.exchange.base.storage.base-storage-debug-6 /Users/thomas/AndroidStudioProjects/MyApplication/base-storage/src/debug/res
-com.example.exchange.base.storage.base-storage-main-7 /Users/thomas/AndroidStudioProjects/MyApplication/base-storage/src/main/res

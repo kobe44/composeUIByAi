@@ -1,8 +1,0 @@
-com.example.exchange.base.ui.base-ui-pngs-0 /Users/thomas/AndroidStudioProjects/MyApplication/base-ui/build/generated/res/pngs/debug
-com.example.exchange.base.ui.base-ui-updated_navigation_xml-1 /Users/thomas/AndroidStudioProjects/MyApplication/base-ui/build/generated/updated_navigation_xml/debug
-com.example.exchange.base.ui.base-ui-mergeDebugResources-2 /Users/thomas/AndroidStudioProjects/MyApplication/base-ui/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
-com.example.exchange.base.ui.base-ui-mergeDebugResources-3 /Users/thomas/AndroidStudioProjects/MyApplication/base-ui/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
-com.example.exchange.base.ui.base-ui-debug-4 /Users/thomas/AndroidStudioProjects/MyApplication/base-ui/build/intermediates/merged_res/debug/mergeDebugResources
-com.example.exchange.base.ui.base-ui-debug-5 /Users/thomas/AndroidStudioProjects/MyApplication/base-ui/build/intermediates/packaged_res/debug/packageDebugResources
-com.example.exchange.base.ui.base-ui-debug-6 /Users/thomas/AndroidStudioProjects/MyApplication/base-ui/src/debug/res
-com.example.exchange.base.ui.base-ui-main-7 /Users/thomas/AndroidStudioProjects/MyApplication/base-ui/src/main/res

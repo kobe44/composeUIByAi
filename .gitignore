@@ -1,15 +1,39 @@
-*.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+# Gradle（含各子模块）
+.gradle/
+build/
+
+# 本机 SDK / NDK 路径（勿提交）
 local.properties
+
+# Android Studio / IntelliJ（个人缓存与本地状态）
+.idea/
+*.iml
+
+# 原生与 CMake
+.externalNativeBuild
+.cxx/
+*.hprof
+
+# 构建输出与包体
+/captures
+*.apk
+*.aab
+*.ap_
+*.dex
+bin/
+out/
+gen/
+
+# 本地 / 系统
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+*~
+
+# 签名与密钥（切勿进仓库）
+*.jks
+*.keystore
+
+# Kotlin
+.kotlin/

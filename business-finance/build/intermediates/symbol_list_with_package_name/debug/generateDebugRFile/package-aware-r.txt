@@ -1,2 +1,0 @@
-com.example.exchange.business.finance
-string module_finance_title

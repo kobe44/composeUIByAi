@@ -1,2 +1,0 @@
-com.example.exchange.common.user
-string module_user_title

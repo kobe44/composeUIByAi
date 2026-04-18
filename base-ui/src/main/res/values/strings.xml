@@ -1,3 +1,11 @@
 <resources>
     <string name="base_ui_module_placeholder_hint">组件占位页：在此接入业务界面与 ViewModel。</string>
+
+    <string name= "click_button_message">开始录制音频</string>
+
+    <string name="click_button_message_again">停止录制音频</string>
+
+    <string name="click_button_message_play">播放录制音频</string>
+
+    <string name="click_button_message_stop_play">停止播放录音</string>
 </resources>
